@@ -1,3 +1,5 @@
+Link to my Kaggle Notebook: https://www.kaggle.com/code/gamelab/linear-regression-housing-model
+
 Open : linear_ml_house.ipynb
 
 Prediction Error Analysis – Personal Reflections
