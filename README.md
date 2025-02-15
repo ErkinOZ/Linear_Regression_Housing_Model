@@ -3,7 +3,7 @@ Open : linear_ml_house.ipynb
 Prediction Error Analysis – Personal Reflections
 By Erkin Ozkan
 
-Working on this project has given me valuable hands-on experience in predictive modeling using linear regression. I started with a simple idea—predicting house prices—and gradually uncovered deeper insights into error distribution, model evaluation, and areas for improvement.
+Working on this project has given me valuable hands on experience in predictive modeling using linear regression. I started with a simple idea predicting house prices and gradually uncovered deeper insights into error distribution, model evaluation, and areas for improvement.
 
 
 ![Снимок экрана 2025-02-14 200350](https://github.com/user-attachments/assets/4d550d4e-a46c-4cf0-8cdd-6f9860461225)
