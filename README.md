@@ -1,3 +1,5 @@
+Open : linear_ml_house.ipynb
+
 Analysis of the Prediction Error Distribution
 From the given dataset, we analyzed the prediction errors between the actual house prices and the predicted prices using our linear regression model. The error was computed as:
 Error = Actual Price - Predicted Price
