@@ -8,15 +8,6 @@ By Erkin Ozkan
 Working on this project has given me valuable hands on experience in predictive modeling using linear regression. I started with a simple idea predicting house prices and gradually uncovered deeper insights into error distribution, model evaluation, and areas for improvement.
 
 
-![Снимок экрана 2025-02-14 200350](https://github.com/user-attachments/assets/4d550d4e-a46c-4cf0-8cdd-6f9860461225)
-
-![Снимок экрана 2025-02-14 200417](https://github.com/user-attachments/assets/3c035f55-9ffa-4d43-a9e8-29e14559ea45)
-
-![Снимок экрана 2025-02-14 200556](https://github.com/user-attachments/assets/3619a460-1783-4ffe-9512-288131bd5e14)
-
-![Снимок экрана 2025-02-14 144809](https://github.com/user-attachments/assets/f9f5febd-4a9c-4f55-8fee-d2545dc85e86)
-
-
 📊 Understanding the Model’s Performance
 Through this analysis, I observed that our model follows an approximately normal error distribution, but with slight skewness. Most predictions were fairly accurate, but some outliers indicated nonlinear relationships that a simple linear regression model couldn't fully capture.
 Breaking down the errors into Accurate (≤5%), Moderate (5-15%), and Poor (>15%) helped me identify areas for improvement and evaluate the reliability of our predictions.
