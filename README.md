@@ -14,13 +14,13 @@ Breaking down the errors into Accurate (≤5%), Moderate (5-15%), and Poor (>15%
 
  Key Learnings & Future Improvements
 
-1️⃣ Feature Engineering Matters – Adding polynomial features, interaction terms, or external factors like neighborhood data could improve accuracy.
+1) Feature Engineering Matters – Adding polynomial features, interaction terms, or external factors like neighborhood data could improve accuracy.
 
-2️⃣ Linear Regression Has Limits – While it provides interpretability, complex datasets may require nonlinear models like Decision Trees, Gradient Boosting, or Neural Networks.
+2) Linear Regression Has Limits – While it provides interpretability, complex datasets may require nonlinear models like Decision Trees, Gradient Boosting, or Neural Networks.
 
-3️⃣ Cross-Validation is Essential – Instead of relying on a single train-test split, I now understand the importance of k-fold cross-validation to assess model robustness.
+3) Cross-Validation is Essential – Instead of relying on a single train-test split, I now understand the importance of k-fold cross-validation to assess model robustness.
 
-4️⃣ Handling Outliers & Data Quality – Investigating extreme errors can help identify missing variables or data inconsistencies affecting predictions.
+4) Handling Outliers & Data Quality – Investigating extreme errors can help identify missing variables or data inconsistencies affecting predictions.
 
 My Next Steps
 This project was a great introduction to predictive modeling, but I now want to explore more advanced techniques:
